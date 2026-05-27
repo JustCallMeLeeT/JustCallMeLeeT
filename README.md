@@ -17,11 +17,11 @@ I am focused on building immersive software applications and intelligent hardwar
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%234479A1.svg?style=flat&logo=mysql&logoColor=white) |
-| **Frameworks & Engines** | ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361dafb) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white) |
-| **Hardware & IoT** | ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) `Autodesk EAGLE` `PCB Design` `IR, Ultrasonic, & Thermal Sensors` |
-| **Database & Mapping** | ![Firebase](https://img.shields.io/badge/firebase-%23ffca28.svg?style=flat&logo=firebase&logoColor=black) `Microsoft Access` `Leaflet / OpenStreetMap` `Google Maps API` |
-| **Design & UI/UX** | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat&logo=adobe-xd&logoColor=white) `Lunacy` |
+| **Languages** | ![C](https://img.shields.io/badge/C-4B0082?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-5E2D79?style=flat-square&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-7B1FA2?style=flat-square&logo=c-sharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-8E24AA?style=flat-square&logo=javascript&logoColor=white) ![Python](https://img.shields.io/badge/Python-9C27B0?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-B088F5?style=flat-square&logo=mysql&logoColor=white) |
+| **Frameworks & Engines** | ![React Native](https://img.shields.io/badge/React_Native-4B0082?style=flat-square&logo=react&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-6A1B9A?style=flat-square&logo=flutter&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-8E24AA?style=flat-square&logo=unity&logoColor=white) |
+| **Hardware & IoT** | ![Arduino](https://img.shields.io/badge/Arduino-7B1FA2?style=flat-square&logo=arduino&logoColor=white) `Autodesk EAGLE` `PCB Design` `IR, Ultrasonic, & Thermal Sensors` |
+| **Database & Mapping** | ![Firebase](https://img.shields.io/badge/Firebase-5E2D79?style=flat-square&logo=firebase&logoColor=white) `Microsoft Access` `Leaflet / OpenStreetMap` `Google Maps API` |
+| **Design & UI/UX** | ![Figma](https://img.shields.io/badge/Figma-8E24AA?style=flat-square&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe_XD-9C27B0?style=flat-square&logo=adobe-xd&logoColor=white) `Lunacy` |
 
 ---
 
