@@ -59,8 +59,10 @@ Deep into **PCB design**, **embedded systems**, **Unity game dev**, and **sensor
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=JustCallMeLeeT&show_icons=true&theme=tokyonight&hide_border=true&title_color=b088f5&icon_color=b088f5" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustCallMeLeeT&layout=compact&theme=tokyonight&hide_border=true&title_color=b088f5" height="165" />
+  [<img src="https://github-readme-stats.vercel.app/api?username=JustCallMeLeeT&show_icons=true&theme=tokyonight&hide_border=true&title_color=b088f5&icon_color=b088f5" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustCallMeLeeT&layout=compact&theme=tokyonight&hide_border=true&title_color=b088f5" height="165" />](https://github-readme-stats-theta-roan-90.vercel.app/api?username=JustCallMeLeeT&show_icons=true&theme=tokyonight&hide_border=true&title_color=b088f5&icon_color=b088f5
+
+https://github-readme-stats-theta-roan-90.vercel.app/api/top-langs/?username=JustCallMeLeeT&layout=compact&theme=tokyonight&hide_border=true&title_color=b088f5)
 
 </div>
 
