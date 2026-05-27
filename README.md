@@ -33,15 +33,6 @@ I am a passionate **Computer Engineering** student focused on building immersive
 
 ---
 
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JustCallMeLeeT&show_icons=true&theme=tokyonight&count_private=true" alt="Joshlee's GitHub Stats" height="192px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustCallMeLeeT&layout=compact&theme=tokyonight" alt="Top Languages" height="192px" />
-</p>
-
----
-
 ### 📫 Connect with Me
 - 👤 **Facebook:** [facebook.com/joshlee.rash.2025](https://www.facebook.com/joshlee.rash.2025/)
 - 📧 **Email:** susanjoshlee@gmail.com
