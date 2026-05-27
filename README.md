@@ -1,8 +1,16 @@
-# Hi there, I'm Joshlee Rash D. Susan! 👋
+# Hi there, I'm Joshlee Rash!
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExenBoZGlkZjNoZzc5YWNtcTlrcWp6d2s2bXh1aDc2Ym9xeXp0OGR1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T06j05U1sahQkJvmfI/giphy.gif" width="500" alt="Robot Animation">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGFkcXdmbzh1a2U4dDVpc3ZpN3E0eDJhMXJva2drMHBmNzUyeGp1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PkKzNQjwPy7GvxZbfe/giphy.gif" width="500" alt="Robot Animation">
 </p>
+
+<samp>
+  <ins>
+    <p align="center">
+      <b>🌌 ROBO-ENGINEERING WORKSPACE 🌌</b>
+    </p>
+  </ins>
+</samp>
 
 ### 🚀 About Me
 I am focused on building immersive software applications and intelligent hardware systems. **I am incredibly fond of hardware and robotics**, constantly experimenting with autonomous systems, circuitry, and structural mechanics to bring physical machines to life.
