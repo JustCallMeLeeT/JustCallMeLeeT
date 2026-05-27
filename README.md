@@ -7,16 +7,13 @@
 /\__|    (  <_> )___ \|   Y  \  |_\  ___/\  ___/ 
 \________|\____/____  >___|  /____/\___  >\___  >
                     \/     \/          \/     \/ 
-
 JOSHLEE RASH · hardware + software engineer · cebu, ph
-
 ```
-
 </div>
 
 ---
 
-<img src="https://media1.giphy.com/media/xUPGcH7WRAnKKWhR7y/giphy.gif" width="480" alt="Robot Animation">
+<img src="https://media1.giphy.com/media/xUPGcH7WRAnKKWhR7y/giphy.gif" width="600" alt="Robot Animation">
 
 ### hey, I'm Joshlee 👋
 
