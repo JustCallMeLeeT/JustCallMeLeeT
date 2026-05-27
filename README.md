@@ -25,10 +25,10 @@
 
 I work across the full stack of physical and digital systems — writing firmware for embedded hardware one day, shipping a React Native interface the next. I'm particularly drawn to **robotics and autonomous systems**: the feedback loops between sensor, logic, and motion are endlessly interesting to me.
 
-- 🤖 Currently facilitating **VisMin Robotics Summer Cup 2026**
-- 📱 Building mobile apps with **React Native** and **Flutter**
-- 🔧 Deep into **PCB design**, embedded systems, and sensor-based automation
-- 🎮 Game dev on the side with **Unity**
+-  Currently facilitating **VisMin Robotics Summer Cup 2026**
+-  Building mobile apps with **React Native** and **Flutter**
+-  Deep into **PCB design**, embedded systems, and sensor-based automation
+-  Game dev on the side with **Unity**
 
 ---
 
@@ -81,10 +81,10 @@ Database engine and structural architecture for an application-based demographic
 
 ```
 → Facilitator · VisMin Robotics Summer Cup (2026)
-→ Facilitator · RoboQuest (2024, 2025)
 → NCR Hackathon Participant (2025)
 → AWS Community Workshop (2025)
 → Cisco Packet Tracer Introduction (2025)
+→ Facilitator · RoboQuest (2024 - 2025)
 → Arduino & Electronics Foundations (2018)
 ```
 
