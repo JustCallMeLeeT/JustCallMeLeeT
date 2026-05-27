@@ -1,7 +1,7 @@
 # Hi there, I'm Joshlee Rash D. Susan! 👋
 
 <p align="center">
-  <img src="https://media.giphy.com/media/q0FsdbzsbwHVm/giphy.gif" width="400" alt="Spaceship Animation">
+  <img src="https://media.tenor.com/eAb6xYMtNfX/giphy.gif" width="500" alt="Spaceship Radar Animation">
 </p>
 
 ### 🚀 About Me
