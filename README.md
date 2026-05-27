@@ -92,10 +92,6 @@ Database engine and structural architecture for an application-based demographic
 
 ### github stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JustCallMeLeeT&show_icons=true&theme=dark&bg_color=0d0d0f&title_color=c8f060&icon_color=60d0f0&text_color=e8e6e0&border_color=ffffff12&hide_border=false" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustCallMeLeeT&layout=compact&theme=dark&bg_color=0d0d0f&title_color=c8f060&text_color=e8e6e0&border_color=ffffff12" height="160" alt="Top Languages" />
-</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=JustCallMeLeeT&theme=dark&background=0d0d0f&ring=c8f060&fire=60d0f0&currStreakLabel=c8f060&border=ffffff12&sideLabels=e8e6e0&dates=6e6c66" alt="GitHub Streak" />
