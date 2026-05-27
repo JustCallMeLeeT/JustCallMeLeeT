@@ -1,30 +1,30 @@
 <div align="center">
 
 ```
- ___  ___  ________  ________  ___  ___  ___       _______   _______      
-|\  \|\  \|\   __  \|\   ____\|\  \|\  \|\  \     |\  ___ \ |\  ___ \     
-\ \  \\\  \ \  \|\  \ \  \___|\ \  \\\  \ \  \    \ \   __/|\ \   __/|    
- \ \   __  \ \  \\\  \ \_____  \ \   __  \ \  \    \ \  \_|/_\ \  \_|/__  
-  \ \  \ \  \ \  \\\  \|____|\  \ \  \ \  \ \  \____\ \  \_|\ \ \  \_|\ \ 
-   \ \__\ \__\ \_______\____\_\  \ \__\ \__\ \_______\ \_______\ \_______\
-    \|__|\|__|\|_______|\_________\|__|\|__|\|_______|\|_______|\|_______|
-                        \|_________|                                        
+     ____.            .__    .__                 
+    |    | ____  _____|  |__ |  |   ____   ____  
+    |    |/  _ \/  ___/  |  \|  | _/ __ \_/ __ \ 
+/\__|    (  <_> )___ \|   Y  \  |_\  ___/\  ___/ 
+\________|\____/____  >___|  /____/\___  >\___  >
+                    \/     \/          \/     \/ 
 
-  JOSHLEE RASH · hardware + software engineer · cebu, ph
+JOSHLEE RASH · hardware + software engineer · cebu, ph
+
 ```
 
 </div>
 
 ---
 
+<img src="https://media1.giphy.com/media/xUPGcH7WRAnKKWhR7y/giphy.gif" width="480" alt="Robot Animation">
+
 ### hey, I'm Joshlee 👋
 
 I work across the full stack of physical and digital systems — writing firmware for embedded hardware one day, shipping a React Native interface the next. I'm particularly drawn to **robotics and autonomous systems**: the feedback loops between sensor, logic, and motion are endlessly interesting to me.
 
-- 🤖 Currently facilitating **VisMin Robotics Summer Cup 2026**
-- 📱 Building mobile apps with **React Native** and **Flutter**
-- 🔧 Deep into **PCB design**, embedded systems, and sensor-based automation
-- 🎮 Game dev on the side with **Unity**
+- Building mobile apps with **React Native** and **Flutter**
+- Deep into **PCB design**, embedded systems, and sensor-based automation
+- Game dev on the side with **Unity**
 
 ---
 
