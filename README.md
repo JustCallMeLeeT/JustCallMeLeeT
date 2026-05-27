@@ -1,7 +1,11 @@
 # Hi there, I'm Joshlee Rash! 👋
 
+<p align="center">
+  <img src="https://media.giphy.com/media/q0FsdbzsbwHVm/giphy.gif" width="400" alt="Spaceship Animation">
+</p>
+
 ### 🚀 About Me
-I am a passionate **Computer Engineering** student focused on building immersive software applications and intelligent hardware systems. My expertise spans cross-platform mobile frameworks, real-time interactive game engines, and embedded systems prototyping.
+I am a passionate **Computer Engineering** student focused on building immersive software applications and intelligent hardware systems. **I am incredibly fond of hardware and robotics**, constantly experimenting with autonomous systems, circuitry, and structural mechanics to bring physical machines to life.
 
 - 🎓 **Education:** Computer Engineering Student at CIT-U
 - 💻 **Focus:** Mobile App Development (React Native & Flutter), Game Development (Unity)
