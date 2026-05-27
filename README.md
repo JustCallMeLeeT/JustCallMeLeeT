@@ -1,6 +1,6 @@
 <div align="center">
 
-```
+​```
      ██╗ ██████╗ ███████╗██╗  ██╗██╗     ███████╗███████╗
      ██║██╔═══██╗██╔════╝██║  ██║██║     ██╔════╝██╔════╝
      ██║██║   ██║███████╗███████║██║     █████╗  █████╗  
@@ -14,7 +14,7 @@
 ██╔══██╗██╔══██║╚════██║██╔══██║
 ██║  ██║██║  ██║███████║██║  ██║
 ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
-```
+​```
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=b088f5&center=true&vCenter=true&width=500&lines=hardware+%26+software+engineer;robotics+builder;embedded+systems+%26+PCB+design;always+building+something)](https://git.io/typing-svg)
 
@@ -32,11 +32,11 @@
 
 ## 👾 about me
 
-```yaml
+​```yaml
 name:     Joshlee Rash
 location: Cebu, PH
 focus:    Robotics · Autonomous Systems · Embedded Hardware · Full-Stack Dev
-```
+​```
 
 I work across the **full stack of physical and digital systems** — from writing firmware for microcontrollers to shipping cross-platform mobile interfaces. My obsession lives at the intersection of hardware and software: where a line of C code makes a motor spin, a sensor fires, or a robot navigates on its own.
 
@@ -54,15 +54,12 @@ Deep into **PCB design**, **embedded systems**, **Unity game dev**, and **sensor
 | **Data & Mapping** | Firebase · Sensor Arrays · Ultrasonic Imaging |
 | **Design** | Figma · Adobe XD |
 
-
 ## 📊 github stats
 
 <div align="center">
 
-  [<img src="https://github-readme-stats.vercel.app/api?username=JustCallMeLeeT&show_icons=true&theme=tokyonight&hide_border=true&title_color=b088f5&icon_color=b088f5" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustCallMeLeeT&layout=compact&theme=tokyonight&hide_border=true&title_color=b088f5" height="165" />](https://github-readme-stats-theta-roan-90.vercel.app/api?username=JustCallMeLeeT&show_icons=true&theme=tokyonight&hide_border=true&title_color=b088f5&icon_color=b088f5
-
-https://github-readme-stats-theta-roan-90.vercel.app/api/top-langs/?username=JustCallMeLeeT&layout=compact&theme=tokyonight&hide_border=true&title_color=b088f5)
+  <img src="https://github-readme-stats-theta-roan-90.vercel.app/api?username=JustCallMeLeeT&show_icons=true&theme=tokyonight&hide_border=true&title_color=b088f5&icon_color=b088f5" height="165" />
+  <img src="https://github-readme-stats-theta-roan-90.vercel.app/api/top-langs/?username=JustCallMeLeeT&layout=compact&theme=tokyonight&hide_border=true&title_color=b088f5" height="165" />
 
 </div>
 
