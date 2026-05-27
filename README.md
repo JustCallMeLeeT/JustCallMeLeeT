@@ -19,7 +19,7 @@
 
 ---
 
-<img src="https://media1.giphy.com/media/xUPGcH7WRAnKKWhR7y/giphy.gif" width="480" alt="Robot Animation">
+<img src="https://media1.giphy.com/media/xUPGcH7WRAnKKWhR7y/giphy.gif" width="600" alt="Robot Animation">
 
 ### hey, I'm Joshlee 👋
 
