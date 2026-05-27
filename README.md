@@ -1,7 +1,7 @@
-# Hi there, I'm Joshlee Rash!
+# Hi there, I'm Joshlee Rash !
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGFkcXdmbzh1a2U4dDVpc3ZpN3E0eDJhMXJva2drMHBmNzUyeGp1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PkKzNQjwPy7GvxZbfe/giphy.gif" width="500" alt="Robot Animation">
+  <img src="https://media.giphy.com/media/PkKzNQjwPy7GvxZbfe/giphy.gif" width="500" alt="Robot Animation">
 </p>
 
 <samp>
