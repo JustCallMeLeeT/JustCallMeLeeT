@@ -24,9 +24,10 @@
 
 <div align="center">
 
-![Robot GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHVtazlhZzRjbXF4NHd4bXVycWc5ZGl3aXdneWJjdGN4ZzVpMXpheCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
+![Outer Space Art GIF by xponentialdesign](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGI3NDVueHJ2bDN6cmhjY2xsbWFzbHo1Zjk3MGJuNHZsNGhkMHQwbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4ydWTcMBjimLbT1CHi/giphy.gif)
 
 </div>
+
 ---
 
 ## 👾 about me
