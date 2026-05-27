@@ -27,7 +27,6 @@
 ![Robot GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHVtazlhZzRjbXF4NHd4bXVycWc5ZGl3aXdneWJjdGN4ZzVpMXpheCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
 
 </div>
-
 ---
 
 ## 👾 about me
