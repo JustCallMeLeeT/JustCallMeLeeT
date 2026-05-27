@@ -5,10 +5,8 @@
 </p>
 
 ### 🚀 About Me
-I am a passionate **Computer Engineering** student at the Cebu Institute of Technology - University (CIT-U) focused on building immersive software applications and intelligent hardware systems. **I am incredibly fond of hardware and robotics**, constantly experimenting with autonomous systems, circuitry, and structural mechanics to bring physical machines to life.
+I am focused on building immersive software applications and intelligent hardware systems. **I am incredibly fond of hardware and robotics**, constantly experimenting with autonomous systems, circuitry, and structural mechanics to bring physical machines to life.
 
-- 🎓 **Education:** BS in Computer Engineering at CIT-U (2022 - Present)
-- 💼 **Leadership:** Head of Research and Development Committee @ ICpEP-SE | CpE Representative @ 40th SSG
 - 💻 **Focus:** Mobile App Development (React Native & Flutter), Game Development (Unity)
 - 🤖 **Hardware:** Embedded Systems, IoT Integration, PCB Design, and Sensor-Based Automation
 - 🛡️ **Interests:** UI/UX Design, Computer Vision (Object Detection), and Technical Research
