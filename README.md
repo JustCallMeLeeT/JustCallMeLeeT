@@ -95,9 +95,6 @@
   </a>
 </p>
 
-![Top language](https://stats.pphat.top/languages?username=JustCallMeLeeT)
-<br/>
-
 ## 🔗 Connect with Me
 <p align="center">
   <a href="mailto:susanjoshlee@gmail.com">
